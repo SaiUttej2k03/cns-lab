@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894107655060",
+    "project_id": "cipherapp-cdd7c",
+    "storage_bucket": "cipherapp-cdd7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894107655060:android:07a4769737f0b7ad7bcd81",
+        "android_client_info": {
+          "package_name": "com.example.ciperapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM6eAV3U3Y32igP3lXUa4nVXmOk_3pOVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
